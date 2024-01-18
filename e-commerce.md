@@ -61,8 +61,6 @@ The objective of this process is to provide users with a seamless experience whe
 13. Collaboration with Stakeholders:
 
 - Continuous collaboration with stakeholders ensures that the search functionality aligns with user expectations and business goals.
-  
-This process description outlines the steps involved in the user's search journey, from initiating a basic search to refining results with advanced filters. Continuous monitoring and collaboration are essential for maintaining and improving the effectiveness of the search functionality.
 
 ## Test cases
 
