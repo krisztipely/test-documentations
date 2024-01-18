@@ -57,7 +57,7 @@ The objective of this process is to provide users with a seamless experience whe
 12. User Feedback and Iteration:
 
 - User feedback, analytics, and monitoring results are used to iterate on the search functionality, addressing any issues and improving the user experience.
-- 
+  
 13. Collaboration with Stakeholders:
 
 - Continuous collaboration with stakeholders ensures that the search functionality aligns with user expectations and business goals.
