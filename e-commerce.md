@@ -4,6 +4,66 @@
 
 As a user, I want to be able to search for products on an e-commerce website, so that I can quickly find and purchase items I am interested in.
 
+## Process description
+
+**Objective**
+
+The objective of this process is to provide users with a seamless experience when searching for products on the e-commerce website. This includes basic and advanced search functionalities, ensuring accurate results, and handling various scenarios effectively.
+
+1. User Initiates Search
+
+- Users access the search functionality on the website to find products.
+
+2. Basic Search
+
+- Users enter a valid search query (e.g., product name) and initiate the search.
+
+3. Advanced Search:
+
+- Users have the option to use advanced search filters (e.g., price range, brand) to refine their search.
+  
+4. System Processes Search:
+
+- The system processes the search query, considering both basic and advanced criteria.
+  
+5. Search Results Display:
+
+- The system displays relevant products matching the user's search query.
+  
+6. Empty Search Handling:
+
+- If a user attempts to search without entering any query, the system prompts them to enter a search query.
+  
+7. Invalid Search Handling:
+
+- If a user enters a non-existent product name or random characters, the system provides a message indicating that no matching products were found.
+  
+8. Advanced Filters Application:
+
+- The system accurately applies advanced search filters, refining search results based on the specified criteria.
+  
+9. Boundary Testing:
+
+- The system handles boundary scenarios, such as displaying the maximum number of products allowed per page.
+  
+10. Performance Testing:
+    
+- Performance tests measure the response time of the search functionality, ensuring results load within an acceptable timeframe (e.g., under 3 seconds).
+
+11. Continuous Monitoring:
+
+- Regular monitoring of the search functionality ensures ongoing performance and identifies any potential issues.
+  
+12. User Feedback and Iteration:
+
+- User feedback, analytics, and monitoring results are used to iterate on the search functionality, addressing any issues and improving the user experience.
+- 
+13. Collaboration with Stakeholders:
+
+- Continuous collaboration with stakeholders ensures that the search functionality aligns with user expectations and business goals.
+  
+This process description outlines the steps involved in the user's search journey, from initiating a basic search to refining results with advanced filters. Continuous monitoring and collaboration are essential for maintaining and improving the effectiveness of the search functionality.
+
 ## Test cases
 
 **Positive test case - Basic search**
